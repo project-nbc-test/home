@@ -1,3 +1,16 @@
 # System usage
 - Systems
--- [AOBA-S](/AOBA-S.md)
+    - [AOBA-S (Tohoku U.)](/AOBA-S.md)
+        - NEC SX Aurora Tsubasa (NEC Vector Engine + AMD EPYC), IB NDR
+    - [WISTERIA-ODDYSEY (U. Tokyo)](/WISTERIA-ODYSSEY.md)
+        - Fujitsu PRIMEHPC (Fujitsu A64fx (Arm)), Tofu Interconnect D
+    - [TSUBAME4.0 (Tokyo Tech.)](/TSUBAME4.md)
+        - Cray XD665 (AMD EPYC + NVIDIA H100), IB NDR
+    - [FLOW-TYPE1 (Nagoya U.)](/FLOW-TYPE1.md)
+        - Fujitsu PRIMEHPC (Fujitsu A64fx (Arm)), Tofu Interconnect D
+    - [FLOW-TYPE2 (Nagoya U.)](/FLOW-TYPE2.md)
+        - Fujitsu PRIMERGY (Intel Xeon + NVIDIA V100), IB EDR + HDR
+    - [CAMPHOR3 (Kyoto U.)](/CAMPHOR3.md)
+        - Dell PowerEdge (Intel Xeon), IB NDR + HDR
+    - [SQUID (Osaka U.)](/SQUID.md)
+        - PC Cluster (Intel Xeon), IB HDR
